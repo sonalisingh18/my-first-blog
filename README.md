@@ -7,27 +7,31 @@ Well still my blog is not complete and the work is in progress.
 
 [IF YOU ARE WORKING ON UBUNTU THEN-]
 
-## Requirements
+### REQUIREMNTS
 
-*Install python3 on your system.
-1. Open terminal.
-2. Follow the commands
-  $ sudo-apt get update
-   
-  $ sudo-apt get install python3
-  
+ 1. INSTALL PYTHON
+```
+  $ sudo apt install python3
+ ```
 
-*Install Django
-  (myvenv) ~$ python -m pip install --upgrade pip
-  
+2. INSTALL DJANGO
+```
+$ python -m pip install --upgrade pip
+```
 
-*Deploy
-1. Pull changes
-  $ git status
-     $ git add --all
-     $ git commit -m "My Django Girls app, first commit"
-  
-2. Pull changes
-  $ git add --all
-     $ git commit -m "My Django Girls app, first commit"
-  
+### DEPLOY
+
+Deploy your website live!
+
+  1.Push changes 
+```
+$ git status
+$ git add --all .
+$ git commit -m "My Django Girls app, first commit"
+```
+  2.Pull changes on your website console
+```
+$ git add --all .
+$ git commit -m "My Django Girls app, first commit"
+```
+## CONGRATULATIONS, NOW YOU HAVE YOUR OWN WEBSITE LIVE!
