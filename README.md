@@ -7,7 +7,7 @@ Well still my blog is not complete and the work is in progress.
 
 [IF YOU ARE WORKING ON UBUNTU THEN-]
 
-### REQUIREMNTS
+### REQUIREMENTS
 
  1. INSTALL PYTHON
 ```
