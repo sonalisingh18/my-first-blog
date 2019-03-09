@@ -23,8 +23,6 @@ $ python -m pip install --upgrade pip
 
 ### DEPLOY
 
-Deploy your website live!
-
   1.Push changes 
 ```
 $ git status
