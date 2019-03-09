@@ -34,4 +34,4 @@ $ git commit -m "My Django Girls app, first commit"
 $ git add --all .
 $ git commit -m "My Django Girls app, first commit"
 ```
-## CONGRATULATIONS, NOW YOU HAVE YOUR OWN WEBSITE LIVE!
+
