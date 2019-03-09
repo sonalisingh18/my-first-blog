@@ -29,7 +29,7 @@ $ git status
 $ git add --all .
 $ git commit -m "My Django Girls app, first commit"
 ```
-  2.Pull changes on your website console
+  2.Pull changes
 ```
 $ git add --all .
 $ git commit -m "My Django Girls app, first commit"
