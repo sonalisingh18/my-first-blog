@@ -1,9 +1,11 @@
 # MY FIRST BLOG
 
-This repository ias all about developing using Django, HTML and CSS.
+This repository is all about developing a blog using Django, HTML and CSS.
 Link for Django- https://tutorial.djangogirls.org/en/
 
 Well still my blog is not complete and the work is in progress.
+
+This time I have basically focused on backend part, earlier I had made a website which coverd more of frontend part.
 
 [IF YOU ARE WORKING ON UBUNTU THEN-]
 
